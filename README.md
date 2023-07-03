@@ -1,5 +1,5 @@
 # numeric
-numeric method calculator
+numerical method calculator
 this is a simple numeric method calculator
 there is :
 1.newton-raphson method
